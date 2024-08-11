@@ -1,0 +1,24 @@
+﻿<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <filename>..\..\output\prueba_1.xml</filename>
+  <mode />
+  <postprocess grab="y" run="y">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59</user-agent>
+  <decryptkey site="site-name">decrypt_userkey</decryptkey>
+  <license wg-username="Jhonatan Vargas Torres" registered-email="jhon.vt98@gmail.com" password="Varto5977">To force a license update; replace this text with the letter f</license>
+  <logging>on</logging>
+  <retry channel-delay="0" index-delay="0" show-delay="0" time-out="10">4</retry>
+  <proxy />
+  <timespan>0</timespan>
+  <update>i</update>
+  <channel update="i" site="reportv.com.ar" site_id="1357" xmltv_id="CANAL 11 REPRETEL">Canal 11</channel>
+  <channel update="i" site="reportv.com.ar" site_id="1626" xmltv_id="CANAL 2 CDR">CANAL 2 CDR</channel>
+  <channel update="i" site="reportv.com.ar" site_id="1621" xmltv_id="CANAL 4 REPRETEL">CANAL 4 REPRETEL</channel>
+  <channel update="i" site="reportv.com.ar" site_id="1230" xmltv_id="CANAL 6 REPRETEL">CANAL 6 REPRETEL</channel>
+  <channel update="i" site="reportv.com.ar" site_id="2066" xmltv_id="CANAL 9 COSTA RICA">CANAL 9 COSTA RICA</channel>
+  <channel update="i" site="reportv.com.ar" site_id="1137" xmltv_id="CBS">CBS</channel>
+  <channel update="i" site="reportv.com.ar" site_id="1662" xmltv_id="SINART CANAL 13">SINART CANAL 13</channel>
+  <channel update="i" site="reportv.com.ar" site_id="969" xmltv_id="TELETICA">TELETICA</channel>
+  <channel update="i" site="startvmexico.com" site_id="3129_1112" xmltv_id="TRU TV">TRU TV</channel>
+  <channel update="i" site="reportv.com.ar" site_id="1661" xmltv_id="UNIVERSIDAD UCR">UNIVERSIDAD UCR</channel>
+  <channel update="i" site="reportv.com.ar" site_id="1820" xmltv_id="XPERT TV">XPERT TV</channel>
+</settings>
